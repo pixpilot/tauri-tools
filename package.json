@@ -6,13 +6,13 @@
   "prettier": "@internal/prettier-config",
   "author": "Mo Doaie <m.doaie@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/ccpu/tauri-tools",
+  "homepage": "https://github.com/pixpilot/tauri-tools",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccpu/tauri-tools.git"
+    "url": "https://github.com/pixpilot/tauri-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/ccpu/tauri-tools/issues"
+    "url": "https://github.com/pixpilot/tauri-tools/issues"
   },
   "engines": {
     "node": ">=24.15.0",
