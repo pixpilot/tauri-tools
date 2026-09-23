@@ -1,0 +1,16 @@
+# @pixpilot/tauri-updater-manifest
+
+## 0.1.0
+
+### Minor Changes
+
+- ac46c7b: Build the `latest.json` a Tauri updater reads from a release's downloaded build
+  artifacts, as a `tauri-updater-manifest` binary and an API. Each updater bundle
+  is paired with the detached signature beside it, the two macOS tarballs are
+  renamed to carry their architecture so one release can hold both, and a
+  platform that built nothing or went unsigned fails the release rather than
+  disappearing from the manifest.
+
+### Patch Changes
+
+- update homepage and repository URLs in package.json files

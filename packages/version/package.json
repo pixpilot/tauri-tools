@@ -1,7 +1,7 @@
 {
   "name": "@pixpilot/tauri-version",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@10.17.0",
   "description": "Sets one version across a Tauri app's Cargo.toml, Cargo.lock, tauri.conf.json and package.json.",
   "author": "Mo Doaie <m.doaie@hotmail.com>",
